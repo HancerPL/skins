@@ -7,13 +7,18 @@
 * Wchodzimy na https://github.com/gildia-org/skins/releases
 * Pobieramy kod źródłowy ostatniego wydania
 
-### Dodawanie do DCS World
+## Dodawanie do DCS World
+### Ważna uwaga
+Paczka musi być dodana w całości (malowania A-10), ponieważ pliki bazowe są w katalogu A-10C 
+#### Pliki gry
 Foldery "Bazar" oraz "CoreMods" umieścić w głównym katalogu gry.
 
 Standardowe lokalizacje:
 * Wersja STANDALONE
   * "C:\Users\(NAZWA UŻYTKOWNIKA)\Saved Games\DCS.openbeta\Liveries"
-
+##### Folder Save Game
+* Wersja STANDALONE
+  * "C:\Users\(NAZWA UŻYTKOWNIKA)\Saved Games\DCS.openbeta\Liveries"
 ## Informacje
 ### Autorzy 
 Paczka malowań powstała dzięki użytkownikom: 
